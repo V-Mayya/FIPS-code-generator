@@ -1,5 +1,5 @@
 # FIPS-code-generator
-Extracting FIPS code of county given city/town and state name.
+**Extracting FIPS code of county given city/town and state name.**
 
 Combining and importing data from various tables (in JSON format) in MySQL to find a county's FIPS code when provided with the city/town and state name in U.S. 
 
